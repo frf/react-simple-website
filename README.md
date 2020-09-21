@@ -3,16 +3,16 @@
 </h1>
 
 <p align="center">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/frf/react-website.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/frf/react-simple-website.svg">
   <a href="https://github.com/lukemorales/bancointer/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/frf/react-website.svg">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/frf/react-simple-website.svg">
   </a>
 
   <a href="https://github.com/lukemorales/bancointer/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/frf/react-website.svg">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/frf/react-simple-website.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/frf/react-website.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/frf/react-simple-website.svg">
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@ This project was developed live at with the following technologies:
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/frf/react-website/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/frf/react-simple-website/blob/master/LICENSE) for more information.
 
 ---
 
