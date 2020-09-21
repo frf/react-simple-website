@@ -28,7 +28,7 @@
 </p>
 
 ## :computer: Technologies
-This project was developed live at with the following technologies:
+This project was developed with the following technologies:
 
 - [ReactJS](https://reactjs.org/)
 - [react-router-dom](https://github.com/ReactTraining/react-router)
